@@ -1,11 +1,11 @@
 # 6-Axis Arduino Robot Arm
 
 PORTS:
-JOYSTICK_X_PORT = A0; // x axis analog input port
-JOYSTICK_Y_PORT = A1; // y axis analog input port
-BUTTON_PORT = 3; // digital 3
+JOYSTICK_X_PORT(A0)
+JOYSTICK_Y_PORT(A1)
+BUTTON_PORT(3)
 
-SERVOS
+Servos:
 base(5)
 shoulder(6)
 elbow(7)
