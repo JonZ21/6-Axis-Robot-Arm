@@ -1,5 +1,9 @@
 # 6-Axis Arduino Robot Arm
 
+From a HowToMechatronics Tutorial:
+https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/ 
+
+
 Customizations:
 Added custom lasercut acrylic base to remove the need to clamp arm onto table. 
 Added custom joystick control
